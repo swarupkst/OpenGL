@@ -20,14 +20,17 @@ Collision detection for eating fishes
 
 Smooth animation using GLUT timers
 
-🕹️ Controls
-Key	Action
+🕹️ Controls<br>
+
+Key	Action<br>
+
 ⬅️ Left Arrow	Move Left <br>
 ➡️ Right Arrow	Move Right <br>
-⬆️ Up Arrow	Move Up
-⬇️ Down Arrow	Move Down
+⬆️ Up Arrow	Move Up<br>
+⬇️ Down Arrow	Move Down<br>
+
 ⚙️ Requirements
 
-C++ compiler (g++, MinGW, MSVC, etc.)
+C++ compiler (g++, MinGW, MSVC, etc.)<br>
 
 OpenGL & GLUT libraries installed
